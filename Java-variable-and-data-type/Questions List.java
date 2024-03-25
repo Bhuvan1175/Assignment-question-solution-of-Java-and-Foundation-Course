@@ -1,0 +1,5 @@
+Q1 - Take 2 integer values in two variables x and y and print their product.(EASY)
+Q2 - Print the ASCII value of character ‘U’.(EASY)
+Q3 - Write a Java program to take the length and breadth of a rectangle and print its area.(EASY)
+Q4 - Write a Java program to calculate the cube of a number.(EASY)
+Q5 - Write a Java program to swap two numbers with the help of a third variable.(HARD)
