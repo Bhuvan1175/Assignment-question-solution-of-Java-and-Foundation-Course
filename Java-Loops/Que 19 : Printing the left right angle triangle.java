@@ -1,4 +1,9 @@
 //Que 19 : Printing the left right angle triangle.
+//                           *
+//                         * *
+//                       * * *
+//                     * * * *
+//                   * * * * *
 import java.util.Scanner;
 public class leftSideRightTriangle {
     public static void main(String[] args) {
