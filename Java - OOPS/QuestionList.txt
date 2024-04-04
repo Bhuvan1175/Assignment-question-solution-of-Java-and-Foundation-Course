@@ -1,0 +1,4 @@
+1) Create a class name 'PERSON' with a variable age.
+2) Write a Java program that takes input for two students' details including roll number and name, and then displays their information. Ensure that the program correctly handles input using a Scanner object.
+3) Create a class named 'Student' with String variable 'name' and integer variable 'roll_no'. Assign the value of roll_no as '2' and that of name as "John" by creating an object of the class Student.
+4) 3. Write a program to print the area of a rectangle by creating a class named 'Area' taking the values of its length and breadth as parameters of its constructor and having a method named 'returnArea'  which returns the area of the rectangle. Length and breadth of rectangle are entered through keyboard.

@@ -1,0 +1,40 @@
+OOPS In Java
+1) Class : The Class is B lueprint or Template of an object.
+2) Object: The object is the instance of a class.
+3) Characteristics of an objects.
+	1) Identitty : Unique Name of the Object.(eg. BMW,Toyata)
+	2) State : Its the attribute.(eg. Color)
+	3) Behaviour : Methods (eg.Accelarator,Break)
+4) How To create a class?
+-------------------Syntax-----------------------
+             public class Car{
+
+	        // Class Body
+
+             }
+-------------------------------------------------
+    1) Access Modifier : its gives accesesability of class.
+		Types of Access Modifiers in java ..
+		A) Public 
+		B) Private
+		C) Protected
+		D) Default
+           We Can used access modifier in front any thing like class, methods
+           And its used to know who could access it .
+
+    2) Class Keyword : In that c will be small when we create class after write access modifiers.
+    3) Class Names.
+    4) Body Statements.
+--------------------------------------------------------
+5) Create An Object
+-------------------Syntax--------------------
+    ClassName ObjectName = new ClassName(); 
+		This is called constructer.
+----------------------------------------------
+To Access attribute and methods we can use
+	objectName.attribute
+----------------------------------------------
+6) What of the operators is used to allocate memory for an object in java ?
+Ans : New
+7) Creating an object from a class is konwn as ?
+Ans :Instantiating
