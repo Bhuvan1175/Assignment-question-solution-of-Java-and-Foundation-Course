@@ -1,0 +1,57 @@
+Methods In Java 
+
+1) Java Methods : Its a block of code performing some action which runs only when its called.
+2) Function vs Methods :  
+	Methods are called using objects, whereas functions can be called directly without the need for any object. For example, if you have a bark() method inside a class, you would first create an object, and then you could call the method using that object.
+3) Why are methods important in java ? 
+	1) write a method only once and used many times.
+	2) Time save
+	3) Duplicate Code Reduce.
+4) Type of methods 
+	A) User Defined Methods : Designed By User or Developers 
+	B) Standard Library Methods : Java preDefined Methods . Eg. Sqrt().
+5) How to declare Methods
+----------------------Step----------------------
+	A) Access Modifiers
+	B) Class Keyword
+	C) Class Name
+	D) Access Modifier
+	E) Retrun Type 
+	D) Method Name 
+	F) (Parameters with Data Type)
+	G) { }
+	H) Code to be Executed - Method Body
+	# From D to G Its also called as Method Header.
+------------------------Syntax---------------------
+	public class Main{
+		public int Sum(int a, int b){
+			return a+b;
+		}
+	}
+---------------------------------------------------
+6) Method Signature : Method Name + Parameter List Eg. sum(int a,int b)
+7) Access Specifier : Access specifiers in Java define the accessibility of classes, methods, and variables. They include public, private, protected, and default (no specifier).(Specify the access of methods)
+8) Return Type : The return type specifies the type of value that a method returns when it is executed.
+9) Method Name : Sum was the method name from Syntax.
+----------------------------------------------------------
+10) Call a Method: 
+--------------------------Syntax-----------------------
+			Sum();
+ # Its only work when we used static keword when creating method.
+ # If you will not used static then you have to create a class object and with help of object you have to call method.
+-------------------------------------------------------
+11) What is Static ?
+	Static is non access modifier .
+12) Standard Library Methods 
+	print(),sqrt(),min(),max(),floor(),pow()
+--------------------------------------------------------
+------------------------Packages------------------------
+1) Package is a collection of classes,subpackages and interfaces. 
+2) Constructer is a special methid used to initialize objects.
+----------------------Access Modifier--------------------
+Acsess--->
+
+1) Public : within class , outside class , outside package non child , outside package child .
+2) Protected : within class , outside class , outside package child .
+3) Default : within class , outside class .
+4) Private : Within Class .
