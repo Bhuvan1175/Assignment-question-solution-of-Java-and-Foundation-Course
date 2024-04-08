@@ -38,3 +38,4 @@ To Access attribute and methods we can use
 Ans : New
 7) Creating an object from a class is konwn as ?
 Ans :Instantiating
+
