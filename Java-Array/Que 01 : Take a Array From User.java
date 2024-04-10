@@ -16,3 +16,4 @@ public class userArray {
         sc.close();
     }
 }
+
