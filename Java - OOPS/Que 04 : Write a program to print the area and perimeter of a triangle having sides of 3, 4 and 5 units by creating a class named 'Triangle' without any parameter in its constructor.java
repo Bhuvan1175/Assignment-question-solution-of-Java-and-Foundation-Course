@@ -29,4 +29,3 @@ public class triangle {
         System.out.println("Area of  the Triangle is: " + AreaOfTriangle);
     }
 }
-
